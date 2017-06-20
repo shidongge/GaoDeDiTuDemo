@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dingwei"
+        android:checked="true"
+        android:enabled="true"
+        android:title="定位"
+        ></item>
+    <item
+        android:id="@+id/shinei"
+        android:checked="true"
+        android:enabled="true"
+        android:title="室内"
+        ></item>
+    <item
+        android:id="@+id/daohang"
+        android:checked="true"
+        android:enabled="true"
+        android:title="导航"
+        ></item>
+    <item
+        android:id="@+id/yejian"
+        android:checked="true"
+        android:enabled="true"
+        android:title="夜间"
+        ></item>
+    <item
+        android:id="@+id/weixing"
+        android:checked="true"
+        android:enabled="true"
+        android:title="卫星"
+        ></item>
+
+
+</menu>
